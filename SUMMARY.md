@@ -32,6 +32,11 @@
   * [Dataset page](software-reference/dataset-page.md)
   * [Usage Page](software-reference/usage-page.md)
   * [Accounts Page](software-reference/accounts-page.md)
+* [Examples](examples.md)
+  * [MNIST handwritter digits recognition](examples/mnist-handwritter-digits-recognition.md)
+  * [Sentiment Prediction on IMDB Movie Review Text](examples/sentiment-prediction-on-imdb-movie-review-text.md)
+  * Image Classification on CIFAR-10 dataset
+  * Reuters Newswire Topics Classification
 * [How To](how-to.md)
   * Upload your own dataset
   * Finetune an existing model
@@ -39,5 +44,6 @@
   * Compare two runs
   * Restore older model
   * Download and use trained model
+  * Make cross validation model
 * [Frequently asked questions \(FAQ\)](frequently-asked-questions-faq.md)
 
