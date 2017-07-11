@@ -21,29 +21,38 @@
     * Step-4: Create a model
     * Step-5: Train and evaluate
     * Step-6: Download and deploy
-* [Software Reference](software-reference.md)
-  * [Project Page](software-reference/project-tab.md)
-  * [Data Tab](software-reference/data-tab.md)
-  * [Model Tab](software-reference/model-tab.md)
-  * [Hyperparameter Tab](software-reference/hyperparameter-tab.md)
-  * [Training Tab](software-reference/training-tab.md)
-  * [Results Tab](software-reference/results-tab.md)
-  * [Inference Tab](software-reference/inference-tab.md)
-  * [Dataset page](software-reference/dataset-page.md)
-  * [Usage Page](software-reference/usage-page.md)
-  * [Accounts Page](software-reference/accounts-page.md)
+* [Platform Reference](software-reference.md)
+  * [Projects](software-reference/project-tab.md)
+  * [Project](software-reference/project-page.md)
+    * [Data Tab](software-reference/data-tab.md)
+    * [Model Tab](software-reference/model-tab.md)
+    * [Hyperparameter Tab](software-reference/hyperparameter-tab.md)
+    * [Training Tab](software-reference/training-tab.md)
+    * [Results Tab](software-reference/results-tab.md)
+    * [Inference Tab](software-reference/inference-tab.md)
+  * [Datasets](software-reference/dataset-page.md)
+  * File Browser
+  * Notebook
+  * [Usage](software-reference/usage-page.md)
+  * [Accounts](software-reference/accounts-page.md)
 * [Examples](examples.md)
-  * [MNIST handwritter digits recognition](examples/mnist-handwritter-digits-recognition.md)
-  * [Sentiment Prediction on IMDB Movie Review Text](examples/sentiment-prediction-on-imdb-movie-review-text.md)
-  * Image Classification on CIFAR-10 dataset
-  * Reuters Newswire Topics Classification
+  * [CNN](examples/cnn.md)
+    * [MNIST handwritter digits recognition](examples/mnist-handwritter-digits-recognition.md)
+    * Image Classification on CIFAR-10 dataset
+  * [Text Classification](examples/text-classification.md)
+    * Reuters Newswire Topics Classification
+    * [Sentiment Prediction on IMDB Movie Review Text](examples/sentiment-prediction-on-imdb-movie-review-text.md)
 * [How To](how-to.md)
-  * Upload your own dataset
-  * Finetune an existing model
-  * Encode multi-dimensional data as numpy file
-  * Compare two runs
-  * Restore older model
-  * Download and use trained model
-  * Make cross validation model
+  * [Datasets](d)
+    * Upload your own dataset
+    * [Encode multi-dimensional data as numpy file](encode-multi-dimensional-data-as-numpy-file.md)
+  * Modeling
+    * Finetune an existing model
+    * Restore older model
+  * Training
+    * Compare two runs
+    * Make cross validation model
+  * Deploy
+    * Download and use trained model
 * [Frequently asked questions \(FAQ\)](frequently-asked-questions-faq.md)
 
