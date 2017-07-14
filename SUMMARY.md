@@ -38,7 +38,7 @@
   * Image Classification on CIFAR-10 dataset
   * Reuters Newswire Topics Classification
 * [How To](how-to.md)
-  * Upload your own dataset
+  * [Upload your own dataset](how-to/upload-your-own-dataset.md)
   * Finetune an existing model
   * Encode multi-dimensional data as numpy file
   * Compare two runs
