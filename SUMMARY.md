@@ -44,7 +44,7 @@
     * [Sentiment Prediction on IMDB Movie Review Text](examples/sentiment-prediction-on-imdb-movie-review-text.md)
 * [How To](how-to.md)
   * [Datasets](d)
-    * Upload your own dataset
+    * [Upload your own dataset](upload-your-own-dataset.md)
     * [Encode multi-dimensional data as numpy file](encode-multi-dimensional-data-as-numpy-file.md)
   * Modeling
     * Finetune an existing model
