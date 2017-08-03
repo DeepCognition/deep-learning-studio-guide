@@ -26,7 +26,7 @@ An array is sequence of semicolon separated numbers. Note that for array variabl
 
 When dealing with very large length of arrays storing and access as semicolon separated array as "Array" variable may not be efficient. Such arrays could be stored as numpy file and name of the file referred into that specific column value.
 
-Further Numpy Array option support arrays of any dimensions. Note that shape of call the arrays should be exactly same.
+Further Numpy Array option support arrays of any dimensions. Note that shape of call arrays should be exactly same.
 
 ![](/assets/numpy_array_datatype.png)
 
@@ -107,8 +107,4 @@ further it is also possible to specify custom loss function.
 ---
 
 All major optimizers are supported including SGD, RMSprop, Adadelta, Adagrad, Adamax, Adam, Nadam.
-
-
-
-
 

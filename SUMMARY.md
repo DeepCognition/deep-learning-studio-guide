@@ -4,7 +4,7 @@
   * [What's machine learning?](whats-machine-learning.md)
   * [What's deep learning?](chapter-2.md)
   * [Deep Learning Studio introduction](deep-learning-studio.md)
-  * [DL Studio capabilities](dl-studio-capabilities.md)
+  * [DL Studio Capabilities](dl-studio-capabilities.md)
   * [What's new?](whats-new.md)
 * [Deep learning basics](deep-learning-basics.md)
   * [Basic introduction 1](introduction-to-deep-learning-by-luis-serrano.md)
