@@ -26,7 +26,7 @@ An array is sequence of semicolon separated numbers. Note that for array variabl
 
 When dealing with very large length of arrays storing and access as semicolon separated array as "Array" variable may not be efficient. Such arrays could be stored as numpy file and name of the file referred into that specific column value.
 
-Further Numpy Array option support arrays of any dimensions. Note that shape of call arrays should be exactly same.
+Further Numpy Array option support arrays of any dimensions. Note that shape of all the arrays should be exactly same.
 
 ![](/assets/numpy_array_datatype.png)
 
@@ -62,7 +62,7 @@ Deep learning studio supports almost all types of modern layers like:
 10. Batch Normalization
 11. Locally connected 1D and 2D layers
 12. Noise layers including Guassian dropout and noise.
-13. merge function
+13. Merge function
 
 ### Easy pre-processing
 
@@ -100,7 +100,7 @@ Currently supports many different types of loss functions including:
 
 12. cosine\_proximity
 
-further it is also possible to specify custom loss function.
+Further it is also possible to specify custom loss function.
 
 ### Optimizers
 

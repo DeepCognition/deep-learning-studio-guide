@@ -6,7 +6,7 @@
   * [Deep Learning Studio introduction](deep-learning-studio.md)
   * [DL Studio Capabilities](dl-studio-capabilities.md)
   * [What's new?](whats-new.md)
-* [Deep learning basics](deep-learning-basics.md)
+* [Deep Learning Basics](deep-learning-basics.md)
   * [Basic introduction 1](introduction-to-deep-learning-by-luis-serrano.md)
   * [Basic introduction 2](how-deep-learning-work-by-brandon-rohrer.md)
   * [Convolutional neural networks \(CNN\)](convolutional-neural-layer.md)
@@ -14,7 +14,7 @@
   * [Recurrent neural networks \(RNN\) and LSTM 2](sequence-learning-with-rnn.md)
 * [Get Started](get-started.md)
   * [Tutorial: your first project](get-started/create-your-first-deep-learning-ai-model.md)
-  * Example walkthrough
+  * [Example walkthrough](get-started/example-walkthrough.md)
     * [Step-1: Create a Project](get-started/step-1-create-a-project.md)
     * [Step-2: Upload data](get-started/step-2-upload-data.md)
     * Step-3: Specify pre-processing options
