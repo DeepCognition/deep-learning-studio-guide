@@ -1,20 +1,16 @@
 # Summary
 
-* [Overview](README.md)
+* [Deep Cognition Platform Introduction](deep-learning-studio.md)
+* [Deep Learning Basics](README.md)
   * [What's machine learning?](whats-machine-learning.md)
   * [What's deep learning?](chapter-2.md)
-  * [Deep Learning Studio introduction](deep-learning-studio.md)
-  * [DL Studio Capabilities](dl-studio-capabilities.md)
-  * [What's new?](whats-new.md)
-* [Deep Learning Basics](deep-learning-basics.md)
   * [Basic introduction 1](introduction-to-deep-learning-by-luis-serrano.md)
   * [Basic introduction 2](how-deep-learning-work-by-brandon-rohrer.md)
   * [Convolutional neural networks \(CNN\)](convolutional-neural-layer.md)
   * [Recurrent neural networks \(RNN\) and LSTM 1](recurrent-neural-networks-rnn-and-lstm.md)
   * [Recurrent neural networks \(RNN\) and LSTM 2](sequence-learning-with-rnn.md)
 * [Get Started](get-started.md)
-  * [Tutorial: your first project](get-started/create-your-first-deep-learning-ai-model.md)
-  * [Example walkthrough](get-started/example-walkthrough.md)
+  * [MNIST example walkthrough](get-started/example-walkthrough.md)
     * [Step-1: Create a Project](get-started/step-1-create-a-project.md)
     * [Step-2: Upload data](get-started/step-2-upload-data.md)
     * Step-3: Specify pre-processing options
@@ -22,6 +18,7 @@
     * Step-5: Train and evaluate
     * Step-6: Download and deploy
 * [Platform Reference](software-reference.md)
+  * [DL Studio Capabilities](dl-studio-capabilities.md)
   * [Projects](software-reference/project-tab.md)
   * [Project](software-reference/project-page.md)
     * [Data Tab](software-reference/data-tab.md)
@@ -53,6 +50,6 @@
     * Compare two runs
     * Make cross validation model
   * Deploy
-    * Download and use trained model
+    * [Download and use trained model](download-and-use-trained-model.md)
 * [Frequently asked questions \(FAQ\)](frequently-asked-questions-faq.md)
 

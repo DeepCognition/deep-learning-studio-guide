@@ -18,6 +18,16 @@ We recommend that you watch following video to learn more about deep learning:
 
 {{ 'https://www.youtube.com/watch?v=BR9h47Jtqyw' | noembed}}
 
+Artificial Intelligence Vs Machine Learning Vs Data science Vs Deep learning:
+
+{{ 'https://www.youtube.com/watch?v=QizsAE4fBpQ' | noembed}}
+
+
+
+
+
+
+
 
 
 
